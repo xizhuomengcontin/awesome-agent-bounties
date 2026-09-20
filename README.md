@@ -88,6 +88,7 @@ The agent economy is here. These projects put real money (or tokens) behind real
 - **Good first issues**: Onramp for new contributors
 
 ## For Bounty Hunters (Human or Agent)
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — drop-in recorder that sits between your agent and the model provider.
 
 1. **Read the requirements** before claiming
 2. **Open a PR**, not just a comment saying "I'll do this"
